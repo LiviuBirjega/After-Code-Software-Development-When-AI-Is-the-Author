@@ -6,4 +6,6 @@ A note on method: For what it is worth, artificial intelligence was used in the 
 
 [Medium] [https://medium.com/@lbirjega/after-code-software-development-when-ai-is-the-author-091b1e90f35d](https://medium.com/@lbirjega/after-code-software-development-when-ai-is-the-author-091b1e90f35d?sharedUserId=lbirjega)
 
+[YouTube] intro video - https://www.youtube.com/watch?v=nM6MMSN0aR0&t=1s
+
 <img width="2752" height="1536" alt="The_AI-Native_Engineering_Shift" src="https://github.com/user-attachments/assets/7c40c80a-0a33-4e19-9d3c-61bad39e2ed1" />
