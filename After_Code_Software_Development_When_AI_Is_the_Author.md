@@ -226,7 +226,7 @@ The developer of the AI-native era is valued less for typing speed and more for 
 
 Teams do not disappear, but their composition changes. The most plausible model is one primary technical owner per complex system, supported by a smaller network of specialists and directing AI agents. The technical owner directs the agents, maintains the architecture and specifications, controls verification and remains accountable for the system's integrity.
 
-
+<img width="900" height="478" alt="Fig-1" src="https://github.com/user-attachments/assets/5b98b261-5748-47b7-b6f7-1135b39d487a" />
 
 *[Figure 1. The new team: one developer, five specialist roles, AI agents]*
 
